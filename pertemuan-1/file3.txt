@@ -1,3 +1,5 @@
 aku file tiga aku hidup
 perubahan
 "aku masih hidup"
+perubahan 2
+"aku hidup tiga kali"
